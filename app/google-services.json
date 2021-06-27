@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443962956369",
+    "project_id": "ar-camera-b45c4",
+    "storage_bucket": "ar-camera-b45c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443962956369:android:517241fd11c8b4a4c7f670",
+        "android_client_info": {
+          "package_name": "com.android.example.projectarcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443962956369-hej1mmpa9c5v3tcetvmk1a0ra0u0jg4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVH-BmZBAyPSBdLz7oaf5inZB1qOxOs6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443962956369-hej1mmpa9c5v3tcetvmk1a0ra0u0jg4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

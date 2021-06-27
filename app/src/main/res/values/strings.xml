@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ARCam</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="upload">Upload</string>
+    <string name="not_connected_to_internet">Not connected to internet!</string>
+    <string name="no_images">No images to show!</string>
+    <string name="otp_phone_text">Enter one time password sent on \n %s</string>
+
+</resources>
