@@ -51,6 +51,7 @@
             android:horizontalSpacing="4dp"
             android:verticalSpacing="4dp"
             android:numColumns="auto_fit"
+            tools:listitem="@layout/list_item_image"
             android:stretchMode="columnWidth"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"

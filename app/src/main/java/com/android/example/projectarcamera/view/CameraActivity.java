@@ -44,6 +44,7 @@ public class CameraActivity extends AppCompatActivity {
         ArFragment arFragment = (ArFragment) getSupportFragmentManager().findFragmentById(R.id.ar_fragment);
 
         //loading the camera and ready it for placing 3d object(cube in this case)
+        assert arFragment != null;
         loadAR(arFragment);
 
         //observer for handling if user wants to see the gallery
