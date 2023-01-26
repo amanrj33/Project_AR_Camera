@@ -121,7 +121,7 @@ public class CameraActivity extends AppCompatActivity {
                         ModelRenderable renderable = ShapeFactory
                                 .makeCube(new Vector3(0.3f,0.3f, 0.3f),new Vector3(0f,0.3f, 0f), material);
 
-                        //create the node and and add the redenrable to it
+                        //create the node and add the renderable to it
                         AnchorNode anchorNode = new AnchorNode(hitResult.createAnchor());
                         TransformableNode node = new TransformableNode(arFragment.getTransformationSystem());
                         node.setParent(anchorNode);
